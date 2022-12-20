@@ -25,6 +25,3 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-✏️ 공부기록 ✏️
-
-<a href="https://velog.io/@mmihye"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
